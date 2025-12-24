@@ -59,9 +59,9 @@ Figma
     </div>
   </body>
 </html>
-
-globals.css
-
+~~~
+### globals.css:
+~~~
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
 * {
   -webkit-font-smoothing: antialiased;
